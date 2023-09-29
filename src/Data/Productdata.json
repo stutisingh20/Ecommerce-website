@@ -1,0 +1,72 @@
+
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Ardor Avaitor",
+        "price": "1999",
+        "image": "https://eyesome.netlify.app/static/media/sports1.f986df729a29a685f835.png",
+        "type": "Sports",
+        "discountPrice": "1899"
+        
+      },
+      {
+        "id": 2,
+        "name": "Caper Active",
+        "price": "1299",
+        "image": "https://eyesome.netlify.app/static/media/sports2.8f34b9326f093dc9cf0d.png",
+        "type": "Sports",
+        "discountPrice": "1199",
+        "addtocart": "images/first-page/plus.png"
+      },
+      {
+        "id": 3,
+        "name": "Alder Street",
+        "price": "2999",
+        "image": "https://eyesome.netlify.app/static/media/sports3.88be7fae1effd927c7cd.png",
+        "type": "Sports",
+        "discountPrice": "2000"
+        
+      },
+      {
+        "id": 4,
+        "name": "Black boss",
+        "price": "2999",
+        "image": "https://eyesome.netlify.app/static/media/sun5.3c6e9349bf4c9fc9ce70.png",
+        "type": "Sunglasses",
+        "discountPrice": "2399"
+        
+      },
+      {
+        "id": 5,
+        "name": "Hip Hop Candy",
+        "price": "1499",
+        "image": "https://eyesome.netlify.app/static/media/sports7.99c95c59ac7a9c588366.png",
+        "type": "Sports",
+        "discountPrice": "1399"
+        
+      },
+      {
+        "id": 6,
+        "name": "Punk Cut Out",
+        "price": "2999",
+        "image": "https://eyesome.netlify.app/static/media/sports8.2e04c613e3b4def2ec69.png",
+
+        "type": "Sports",
+        "discountPrice": "2599"
+        
+      },
+      {
+        "id": 7,
+        "name": "Rounded Gold",
+        "price": "1299",
+        "image": "https://eyesome.netlify.app/static/media/vision2.611b59463c103d118f9a.png",
+        "type": "Vision",
+        "discountPrice": "1000"
+        
+      }
+      
+    ]
+  }
+  
